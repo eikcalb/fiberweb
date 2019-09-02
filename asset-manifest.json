@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/fiberweb/static/css/main.05b66a98.chunk.css",
+    "main.js": "/fiberweb/static/js/main.ff9f28ae.chunk.js",
+    "main.js.map": "/fiberweb/static/js/main.ff9f28ae.chunk.js.map",
+    "runtime~main.js": "/fiberweb/static/js/runtime~main.69f00ca2.js",
+    "runtime~main.js.map": "/fiberweb/static/js/runtime~main.69f00ca2.js.map",
+    "static/css/2.62908225.chunk.css": "/fiberweb/static/css/2.62908225.chunk.css",
+    "static/js/2.a3ffa452.chunk.js": "/fiberweb/static/js/2.a3ffa452.chunk.js",
+    "static/js/2.a3ffa452.chunk.js.map": "/fiberweb/static/js/2.a3ffa452.chunk.js.map",
+    "index.html": "/fiberweb/index.html",
+    "precache-manifest.781c2a41941cab291372944c9fb77af8.js": "/fiberweb/precache-manifest.781c2a41941cab291372944c9fb77af8.js",
+    "service-worker.js": "/fiberweb/service-worker.js",
+    "static/css/2.62908225.chunk.css.map": "/fiberweb/static/css/2.62908225.chunk.css.map",
+    "static/css/main.05b66a98.chunk.css.map": "/fiberweb/static/css/main.05b66a98.chunk.css.map"
+  }
+}
